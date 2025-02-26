@@ -4,7 +4,7 @@ The Bank system where user can login and register , and the superadmin can add a
 Team members: 
 Nyssanbek Iliyas 220103109
 Suleimenov Yerassyl 220103201
-Zamanbek Temirlan 220103032
+Zamangali Temirlan 220103032
 Kopzhassarov Zhanali 220103005
 Darkhanuly Said 220103234 
 
